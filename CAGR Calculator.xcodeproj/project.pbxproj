@@ -12,7 +12,6 @@
 		1B3F169A241D20E30067CB31 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B3F1699241D20E30067CB31 /* ViewController.swift */; };
 		1B3F169D241D20E30067CB31 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B3F169B241D20E30067CB31 /* Main.storyboard */; };
 		1B3F169F241D20E70067CB31 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B3F169E241D20E70067CB31 /* Assets.xcassets */; };
-		1B3F16A2241D20E70067CB31 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B3F16A0241D20E70067CB31 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,7 +21,6 @@
 		1B3F1699241D20E30067CB31 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1B3F169C241D20E30067CB31 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1B3F169E241D20E70067CB31 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		1B3F16A1241D20E70067CB31 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1B3F16A3241D20E70067CB31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -61,7 +59,6 @@
 				1B3F1699241D20E30067CB31 /* ViewController.swift */,
 				1B3F169B241D20E30067CB31 /* Main.storyboard */,
 				1B3F169E241D20E70067CB31 /* Assets.xcassets */,
-				1B3F16A0241D20E70067CB31 /* LaunchScreen.storyboard */,
 				1B3F16A3241D20E70067CB31 /* Info.plist */,
 			);
 			path = "CAGR Calculator";
@@ -125,7 +122,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1B3F16A2241D20E70067CB31 /* LaunchScreen.storyboard in Resources */,
 				1B3F169F241D20E70067CB31 /* Assets.xcassets in Resources */,
 				1B3F169D241D20E30067CB31 /* Main.storyboard in Resources */,
 			);
@@ -153,14 +149,6 @@
 				1B3F169C241D20E30067CB31 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		1B3F16A0241D20E70067CB31 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				1B3F16A1241D20E70067CB31 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
