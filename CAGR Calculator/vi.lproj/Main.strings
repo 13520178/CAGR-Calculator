@@ -1,0 +1,147 @@
+
+/* Class = "UINavigationItem"; title = "Calculator"; ObjectID = "0SB-Zs-bnL"; */
+"0SB-Zs-bnL.title" = "Máy Tính";
+
+/* Class = "UILabel"; text = "1.0.0"; ObjectID = "2Bu-27-4RW"; */
+"2Bu-27-4RW.text" = "1.0.0";
+
+/* Class = "UILabel"; text = "Good luck!!!"; ObjectID = "2Tg-9C-od0"; */
+"2Tg-9C-od0.text" = "Chúc thành công!!!";
+
+/* Class = "UILabel"; text = "Report & feedback "; ObjectID = "4si-NB-WKp"; */
+"4si-NB-WKp.text" = "Báo cáo & Góp ý";
+
+/* Class = "UITabBarItem"; title = "Calculator"; ObjectID = "5LJ-2r-Qkc"; */
+"5LJ-2r-Qkc.title" = "Máy tính";
+
+/* Class = "UINavigationItem"; title = "Growth Table"; ObjectID = "6EQ-Ch-kqW"; */
+"6EQ-Ch-kqW.title" = "Bảng phân bổ từng năm";
+
+/* Class = "UILabel"; text = "CAGR Calculator"; ObjectID = "74R-9x-f3V"; */
+"74R-9x-f3V.text" = "Máy tính CAGR";
+
+/* Class = "UILabel"; text = "Wrong kind of decimal"; ObjectID = "7v9-Mi-3m7"; */
+"7v9-Mi-3m7.text" = "Nhập sai số thập phân";
+
+/* Class = "UILabel"; text = "Wrong kind of decimal"; ObjectID = "7yr-rY-ZUb"; */
+"7yr-rY-ZUb.text" = "Nhập sai số thập phân";
+
+/* Class = "UILabel"; text = "NPV Calculator"; ObjectID = "BMd-hF-4KM"; */
+"BMd-hF-4KM.text" = "Máy tính NPV";
+
+/* Class = "UILabel"; text = "Compound Annual Growth Rate"; ObjectID = "DLI-Np-Sxj"; */
+"DLI-Np-Sxj.text" = "Tỷ lệ tăng trưởng hàng năm kép";
+
+/* Class = "UITextField"; placeholder = "Initial Investment Value"; ObjectID = "ENc-rK-Gss"; */
+"ENc-rK-Gss.placeholder" = "Giá trị đầu tư ban đầu";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "Fim-RC-hEa"; */
+"Fim-RC-hEa.text" = "đ";
+
+/* Class = "UILabel"; text = "Remove ads and supporting our development."; ObjectID = "Fpp-GD-UYi"; */
+"Fpp-GD-UYi.text" = "Bỏ quảng cáo và ủng hộ sự phát triển của chúng tôi";
+
+/* Class = "UITextField"; placeholder = "Ending Investment Value"; ObjectID = "G5z-2m-mWG"; */
+"G5z-2m-mWG.placeholder" = "Giá trị đầu tư khi kết thúc";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "IU5-LG-qjB"; */
+"IU5-LG-qjB.normalTitle" = "Tính toán";
+
+/* Class = "UILabel"; text = "Ending value"; ObjectID = "JtS-5Q-F9o"; */
+"JtS-5Q-F9o.text" = "Giá trị kết thúc";
+
+/* Class = "UILabel"; text = "Value"; ObjectID = "Kzs-fE-dtd"; */
+"Kzs-fE-dtd.text" = "Giá trị";
+
+/* Class = "UILabel"; text = "Result"; ObjectID = "L0S-El-tXE"; */
+"L0S-El-tXE.text" = "Kết quả";
+
+/* Class = "UIButton"; normalTitle = "Scroll up"; ObjectID = "LlI-U0-Suj"; */
+"LlI-U0-Suj.normalTitle" = "Lên đầu trang";
+
+/* Class = "UILabel"; text = "No. of periods"; ObjectID = "LnK-8l-51L"; */
+"LnK-8l-51L.text" = "Số chu kì";
+
+/* Class = "UILabel"; text = "​\t  \nCAGR=( \nBB\nEB\n​\t ) \nn\n1\n​\t \n −"; ObjectID = "OYl-Zx-gct"; */
+"OYl-Zx-gct.text" = "​\t  \nCAGR=( \nBB\nEB\n​\t ) \nn\n1\n​\t \n −";
+
+/* Class = "UILabel"; text = "0.0%"; ObjectID = "P1C-JF-vvU"; */
+"P1C-JF-vvU.text" = "0.0%";
+
+/* Class = "UILabel"; text = "Wrong kind of decimal"; ObjectID = "QNr-vj-h8M"; */
+"QNr-vj-h8M.text" = "Nhập sai số thập phân";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "S2g-wX-zWW"; */
+"S2g-wX-zWW.text" = "1";
+
+/* Class = "UILabel"; text = "Year/Month"; ObjectID = "Vkn-YP-44y"; */
+"Vkn-YP-44y.text" = "Năm/Tháng";
+
+/* Class = "UILabel"; text = "Resource"; ObjectID = "WHs-Vp-pq3"; */
+"WHs-Vp-pq3.text" = "Nguồn";
+
+/* Class = "UINavigationItem"; title = "Infomation"; ObjectID = "XVY-AY-hRq"; */
+"XVY-AY-hRq.title" = "Thông tin";
+
+/* Class = "UILabel"; text = "Formula"; ObjectID = "YRU-cv-u4L"; */
+"YRU-cv-u4L.text" = "Công thức";
+
+/* Class = "UITextField"; placeholder = "Months/Years"; ObjectID = "Ypp-E5-kbL"; */
+"Ypp-E5-kbL.placeholder" = "Năm/Tháng";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "ceF-E8-gq7"; */
+"ceF-E8-gq7.text" = "Phiên bản";
+
+/* Class = "UITabBarItem"; title = "Reference"; ObjectID = "d13-Sk-Rsa"; */
+"d13-Sk-Rsa.title" = "Tư liệu";
+
+/* Class = "UILabel"; text = "n = Number of investment periods (months, years, etc.)"; ObjectID = "dKa-gY-N8q"; */
+"dKa-gY-N8q.text" = "n = Số chu kì đầu tư (tháng, năm...)";
+
+/* Class = "UILabel"; text = "Auto Loan Calculator"; ObjectID = "dhc-lx-XzX"; */
+"dhc-lx-XzX.text" = "Máy tính vay mua ôtô";
+
+/* Class = "UILabel"; text = "Calculate compound annual growth rate"; ObjectID = "f29-cq-ROe"; */
+"f29-cq-ROe.text" = "Tính tốc độ tăng trưởng kép hàng năm";
+
+/* Class = "UILabel"; text = "✎"; ObjectID = "ibA-5p-1vM"; */
+"ibA-5p-1vM.text" = "✎";
+
+/* Class = "UILabel"; text = "Starting value"; ObjectID = "mMW-up-7PM"; */
+"mMW-up-7PM.text" = "Giá trị ban đầu";
+
+/* Class = "UITabBarItem"; title = "Infomation"; ObjectID = "p29-U2-Xzl"; */
+"p29-U2-Xzl.title" = "Thông tin";
+
+/* Class = "UILabel"; text = "EB = Investment's ending balance"; ObjectID = "ph0-ng-hc9"; */
+"ph0-ng-hc9.text" = "EB = Số dư cuối kỳ";
+
+/* Class = "UILabel"; text = "Definition"; ObjectID = "spF-rt-KUn"; */
+"spF-rt-KUn.text" = "Định nghĩa";
+
+/* Class = "UILabel"; text = "Make a detailed investment plan."; ObjectID = "tDo-mM-AXG"; */
+"tDo-mM-AXG.text" = "Tạo một kế hoạch đầu tư chi tiết";
+
+/* Class = "UILabel"; text = "Our other apps"; ObjectID = "uNU-Gx-ape"; */
+"uNU-Gx-ape.text" = "Những ứng dụng khác";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "ufB-Sg-ACb"; */
+"ufB-Sg-ACb.text" = "đ";
+
+/* Class = "UILabel"; text = "BB = Investment's beginning balance"; ObjectID = "vWr-pv-iuX"; */
+"vWr-pv-iuX.text" = "BB = Số dư đầu kỳ";
+
+/* Class = "UIButton"; normalTitle = "Growth Table"; ObjectID = "xWo-KG-OE5"; */
+"xWo-KG-OE5.normalTitle" = "Bảng phân bổ từng năm";
+
+/* Class = "UILabel"; text = "▹"; ObjectID = "xpN-Uf-4wa"; */
+"xpN-Uf-4wa.text" = "▹";
+
+/* Class = "UILabel"; text = "$13.300"; ObjectID = "xuE-nB-UQo"; */
+"xuE-nB-UQo.text" = "$13.300";
+
+/* Class = "UINavigationItem"; title = "Reference"; ObjectID = "z3c-Uf-wMf"; */
+"z3c-Uf-wMf.title" = "Tư liệu";
+
+/* Class = "UILabel"; text = "Plan to own your favorite car right now."; ObjectID = "zX7-K3-mem"; */
+"zX7-K3-mem.text" = "Lên kế hoạch sở hữu chiếc xe yêu thích của bạn";

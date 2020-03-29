@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  CAGR Calculator
+
+  Created by Phan Đăng on 3/27/20.
+  Copyright © 2020 Phan Nhat Dang. All rights reserved.
+*/
+
+"unit" = "$";
+"initialInvestmentValue" = "Initial Investment Value";
+"endingInvestmentValue" = "Ending Investment Value";
+"monthsYears" = "Months/Years";
+"investment" = "Investment";
+"returnText" = "Return";
+"cannotBeANegativeNumber" = "Cannot be a negative number";
+"theNumberIsTooBig" = "The number is too big";
+"mustBeADecimalNumber" = "Must be a decimal number";
+"mustBeAnInteger" = "Must be an integer";
+"theValueEnteredMustBeGreaterThan0" = "The value entered must be greater than 0, please try again.";
+"thereWere1OrMoreInputErrors" = "There were 1 or more input errors, please check again.";
+"definitionText" = "The compound annual growth rate, or CAGR for short, is the average rate at which some value (investment) grows over a certain period of time assuming the value has been compounding over that time period.";
+"removeAds" = "Remove ads";
+"removeAdsAndSupporting" = "Remove ads and supporting our development.";

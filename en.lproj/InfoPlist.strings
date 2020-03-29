@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  CAGR Calculator
+
+  Created by Phan Đăng on 3/27/20.
+  Copyright © 2020 Phan Nhat Dang. All rights reserved.
+*/
+"CFBundleDisplayName" = "CAGR Calc";
+"CFBundleName" = "CAGR Calc";

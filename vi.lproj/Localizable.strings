@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  CAGR Calculator
+
+  Created by Phan Đăng on 3/27/20.
+  Copyright © 2020 Phan Nhat Dang. All rights reserved.
+*/
+
+"unit" = "đ";
+"initialInvestmentValue" = "Giá trị đầu tư ban đầu";
+"endingInvestmentValue" = "Giá trị đầu tư khi kết thúc";
+"monthsYears" = "Tháng/năm";
+"investment" = "Đầu tư";
+"returnText" = "Lợi nhuận";
+"cannotBeANegativeNumber" = "Không thể là số âm";
+"theNumberIsTooBig" = "Số quá lớn";
+"mustBeADecimalNumber" = "Phải là số thập phân";
+"mustBeAnInteger" = "Phải là số tự nhiên";
+"theValueEnteredMustBeGreaterThan0" = "Giá trị nhập vào phải lớn hơn 0, vui lòng thử lại.";
+"thereWere1OrMoreInputErrors" = "Đã có lỗi xảy ra, vui lòng thử lại";
+"definitionText" = "Cagr là viết tắt của cụm từ tiếng Anh Compounded Annual Growth rate, mang nghĩa là tốc độ tăng trưởng kép hàng năm. Đây là một thuật ngữ chuyên ngành được sử dụng khá nhiều trong nền kinh tế đặc biệt với những người thường xuyên tiếp xúc với công việc phân tích các chỉ tiêu tài chính.";
+"removeAds" = "Bỏ quảng cáo";
+"removeAdsAndSupporting" = "Bỏ quảng cáo và hỗ trợ chúng tôi phát triển";
